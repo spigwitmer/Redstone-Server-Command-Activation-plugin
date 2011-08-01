@@ -1,5 +1,6 @@
 Prerequisites:
     - apache ant
+    - essentials Bukkit plugin (https://github.com/essentials/Essentials)
     - uh...java
 
 Building:
