@@ -1,0 +1,7 @@
+name: Server Command Redstone Activation Plugin
+main: com.spigwitmer.bukkit.rah.RedstoneActivationHookPlugin
+version: 0.1
+commands:
+  redstonehook:
+    description: Manages command hooks upon activating certain redstone wire
+    usage: /redstonehook <command> [args]
