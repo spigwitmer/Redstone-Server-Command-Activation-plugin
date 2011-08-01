@@ -1,0 +1,13 @@
+Prerequisites:
+    - apache ant
+    - uh...java
+
+Building:
+    - modify build.xml to your liking
+    - run: ant deploy
+
+Usage:
+    - To set a server command for a particular redstone wire, point to it and type: /redstonehook set <server command>
+    - To get the current command issued for a wire, just point and type: /redstonehook
+    - To clear a command for redstone wire, point and type: /redstonehook clear
+    - To get a list of currently placed command mappings: /redstonehook getmaps
